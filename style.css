@@ -10,6 +10,9 @@
   outline: none;
   font-family: 'Roboto', sans-serif;
 }
+.div20{
+    background-color: floralwhite;
+}
 
 body{
   background: url('bg.jpg') no-repeat top center;
@@ -272,7 +275,7 @@ footer{
     transition: background-color 2s ease-out;
 }
 
-/* large screens */
+/* large screens
 @media(min-width: 700px){
     .wrapper{
         display: grid;
@@ -286,4 +289,4 @@ footer{
     .company-info h3, .company-info ul, .brand{
         text-align: left;
     }
-}
+} */
